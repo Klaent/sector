@@ -7,3 +7,7 @@
 A **Clone Pod** creates a fully organic body and brain with a dead body or a brain. Any injuries the previous body sustained will attempt to be healed by said **Clone Pod**.
 
 If a brain is destroyed, punctured or harmed in any way, the cloning process may not even begin.
+
+## Advanced Cloning
+
+**Advanced Cloning** is a method initially created by the [BEOWULF](../factions/minor/beowulf) and further developed by the [Tauri Corporation](../factions/tauri) which allows cloning with only a strand of DNA. **Advanced Cloning** is extremely unstable and may cause a defect in the clone, missing memories, and sometimes just not cloning.
