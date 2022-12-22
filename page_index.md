@@ -33,9 +33,9 @@
 - [Databank](technology/databank)
 - [Cloning](technology/cloning)
 
-## Tales
+## Culture
 
-- [Navigating The Quadrant](tales/navigating_the_quadrant)
+- [Navigating The Quadrant (tales)](culture/tales/navigating_the_quadrant)
 
 ## Species
 
