@@ -35,7 +35,8 @@
 
 ## Culture
 
-- [Navigating The Quadrant (tales)](culture/tales/navigating_the_quadrant)
+- [Navigating The Quadrant (guide)](culture/guide/navigating_the_quadrant)
+- [Distress (tale)](culture/tale/distress)
 
 ## Species
 
