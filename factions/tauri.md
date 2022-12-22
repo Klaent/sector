@@ -2,7 +2,9 @@
 
 ![tauri_corp](../images/flags/tauri_corp.png)
 
-> "To the stars we research, develop and fly!"
+> "War with others creates opportunities for commissions and contracts, why stop on one side when you can be on both sides?"
+>
+> - Anita Tauri, CEO
 
 One of the few surviving Earth-era companies, developing robotic technology and researching rapidly.
 
@@ -26,7 +28,7 @@ A major controversy involving the **Tauri Corporation** is that they profit off 
 
 ## Rumors
 
-- The **Tauri Corporation** CEO may be an AI.
+- The **Tauri Corporation** CEO may have been killed off by an AI and all orders by the 'CEO' have been an AI.
 - The **Tauri Corporation** sparked the **Federation-Union** civil war to profit off both their fighting.
 
 ## Diplomatic Chart
