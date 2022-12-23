@@ -20,6 +20,10 @@ They are led by The Head of Administration by rank and composed of 6 Divisions i
 
 They often open trade to others, as that is what they do. To improve on technology and current equipment; similar to Tauri, in exception they do not profit off of war and instead of fairness. Civilians are open to trade with Beowulf and be unharmed, Beowulf currently is a minor faction, they profit engineers and researchers to their work alike. (They also profit farmers, selling seeds and often help regrowing a new earth)
 
+They are the original manufacturers and developers of the Gravitech™ (or the Gravity Gun), ACM (Rightfully owned by Tauri) and the Holotouch® supervised by AI. They also have a Psytech™ (or the Physics Gun improved) that can move planets, the complete polar opposite of a planetkiller, having the planet to be moved even in space and many more contributions.
+> "This shit's like half life 2!"
+> - Review Tester
+
 ## Rumors
 - The Blackbox recording which were inherently stolen by Tauri from Lucens Spei (the founder of Beowulf) which were classified Quadrant audio was leaked and Beowulf was blamed for it. It was not confirmed true yet but Beowulf simply claims that the rumors were false, that amused the public and simply stopped talking about it, except for some.
 - Beowulf stole Tauri corp property, which is true by Tauri-terms but false by public terms.
