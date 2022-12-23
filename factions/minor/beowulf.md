@@ -35,5 +35,5 @@ They are the original manufacturers and developers of the **Gravitech™** (or t
 
 ## Diplomatic Chart
 
-- **Allies:** [Galactic Federation](https://just-a-unity-dev.github.io/sector/factions/federation), [The Heir](https://just-a-unity-dev.github.io/sector/factions/heir) [Botani Union](https://just-a-unity-dev.github.io/sector/factions/botani), [Independent](https://just-a-unity-dev.github.io/sector/factions/minor/independent)
+- **Allies:** [Galactic Federation](https://just-a-unity-dev.github.io/sector/factions/federation), [The Heir](https://just-a-unity-dev.github.io/sector/factions/heir), [Botani Union](https://just-a-unity-dev.github.io/sector/factions/botani), [Independent](https://just-a-unity-dev.github.io/sector/factions/minor/independent)
 - **Enemies:** [Tauri Corporation](https://just-a-unity-dev.github.io/sector/factions/tauri), [Pirates](https://just-a-unity-dev.github.io/sector/factions/pirates)
