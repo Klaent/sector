@@ -22,7 +22,7 @@ They often open trade to others, as that is what they do. To improve on technolo
 
 They are the original manufacturers and developers of the Gravitech™ (or the Gravity Gun), ACM (Rightfully owned by Tauri) and the Holotouch® supervised by AI. They also have a Psytech™ (or the Physics Gun improved) that can move planets, the complete polar opposite of a planetkiller, having the planet to be moved even in space and many more contributions.
 
-   "This shit's like half life 2!"
+    "This shit's like half life 2!"
 - *Review Tester*
 
 The Tauri Corporation proceeded to launch a raid on the facility, steal the ACM, reverse engineer it and use it for themselves.
