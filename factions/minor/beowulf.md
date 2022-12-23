@@ -21,8 +21,8 @@ They are led by The Head of Administration by rank and composed of 6 Divisions i
 They often open trade to others, as that is what they do. To improve on technology and current equipment; similar to Tauri, in exception they do not profit off of war and instead of fairness. Civilians are open to trade with Beowulf and be unharmed, Beowulf currently is a minor faction, they profit engineers and researchers to their work alike. They also profit farmers, selling seeds and often help regrowing a new earth
 
 They are the original manufacturers and developers of the Gravitech™ (or the Gravity Gun), ACM (Rightfully owned by Tauri) and the Holotouch® supervised by AI. They also have a Psytech™ (or the Physics Gun improved) that can move planets, the complete polar opposite of a planetkiller, having the planet to be moved even in space and many more contributions.
-> "This shit's like half life 2!"
-> - *Review Tester*
+   "This shit's like half life 2!"
+- *Review Tester*
 
 The Tauri Corporation proceeded to launch a raid on the facility, steal the ACM, reverse engineer it and use it for themselves.
 
