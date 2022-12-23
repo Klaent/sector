@@ -20,7 +20,13 @@ They are led by The Head of Administration by rank and composed of 6 Divisions i
 
 They often open trade to others, as that is what they do. To improve on technology and current equipment; similar to Tauri, in exception they do not profit off of war and instead of fairness. Civilians are open to trade with Beowulf and be unharmed, Beowulf currently is a minor faction, they profit engineers and researchers to their work alike. They also profit farmers, selling seeds and often help regrowing a new earth
 
-They are the original manufacturers and developers of the Gravitech™ (or the Gravity Gun), ACM (Rightfully owned by Tauri) and the Holotouch® supervised by AI. They also have a Psytech™ (or the Physics Gun improved) that can move planets, the complete polar opposite of a planetkiller, having the planet to be moved even in space and many more contributions.
+They are the original manufacturers and developers of the Gravitech™ (or the Gravity Gun), ACM® (Rightfully owned by Tauri) and the Holotouch® supervised by AI. They also have a Psytech™ (or the Physics Gun improved) that can move planets, the complete polar opposite of a planetkiller, having the planet to be moved even in space and many more contributions.
+
+## Beo-Tauri War
+
+- Beowulf Cargo was approaching Tauri territory to offer Tauri the ACM® after it's manufacturing
+- Tauri proceeded to raid Beowulf Cargo and thankfully injured a few subjects, stealing the ACM® successfully
+- Beowulf in retaliation raided Tauri territory using an Ampersand drive and injured only a few subjects with a hardbox which contained Expensive Alcohol and a sign that said "The ACM® was supposedly offered to you anyway." with a small defusable timed antimatter bomb on a special compartment
 
 ## Rumors
 
