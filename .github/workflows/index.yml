@@ -1,5 +1,15 @@
 name: Index markdown files
-on: push
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "culture/**"
+      - "events/**"
+      - "factions/**"
+      - "sectors/**"
+      - "species/**"
+      - "technology/**"
 
 jobs:
   build:
