@@ -3,6 +3,7 @@
 ![beowulf flag](https://user-images.githubusercontent.com/121211676/209128428-6fad4507-e92a-4416-ab3b-08b49cb79847.png)
 
 >"As old Sol once said: Humanity cannot live without cooperation and intelligence, One for All and All for One. To peace and fairness."
+> - *Lucens Spei, CEO*
 
 Developing on research, study, discovery, technology, biology, development, renovation and recreation.
 These are who will make a new safe earth, where humanity will be back again in past days where technology wasn't everything and where pollution didn't often spread around the place. And also find new planets, to discover. To learn. To better. 
