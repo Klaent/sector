@@ -25,8 +25,7 @@ They are the original manufacturers and developers of the Gravitech™ (or the G
 ## Rumors
 
 - The Blackbox recording which were inherently stolen by Tauri from Lucens Spei (the founder of Beowulf) which were classified Quadrant audio was leaked and Beowulf was blamed for it. It was not confirmed true yet but Beowulf simply claims that the rumors were false, that amused the public and simply stopped talking about it, except for some.
-
-- Beowulf stole Tauri corp property, which is true by Tauri-terms but false by public terms.
+- Beowulf stole Tauri corp property, which is true by Tauri terms but false by public terms.
 
 ## Diplomatic Chart
 
