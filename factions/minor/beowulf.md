@@ -22,7 +22,7 @@ They are open trade to most others, including civilians, as that is what they do
 
 They are the original manufacturers and developers of the **Gravitech™** (or the Gravity Gun), **ACM®** (Rightfully owned by [Tauri](https://just-a-unity-dev.github.io/sector/factions/tauri) and the **Holotouch®** supervised by AI, physical holographic touch. And many more contributions.
 
-## Beo-Tauri War
+## Events
 
 - Beowulf Cargo was approaching Tauri territory to offer Tauri the ACM® after it's manufacturing
 - Tauri proceeded to raid Beowulf Cargo and thankfully injured a few subjects, stealing the ACM® successfully
@@ -35,5 +35,5 @@ They are the original manufacturers and developers of the **Gravitech™** (or t
 
 ## Diplomatic Chart
 
-- **Allies:** [Galactic Federation](https://just-a-unity-dev.github.io/sector/factions/federation), [The Heir](https://just-a-unity-dev.github.io/sector/factions/heir), [Botani Union](https://just-a-unity-dev.github.io/sector/factions/botani), [Independent](https://just-a-unity-dev.github.io/sector/factions/minor/independent)
-- **Enemies:** [Tauri Corporation](https://just-a-unity-dev.github.io/sector/factions/tauri), [Pirates](https://just-a-unity-dev.github.io/sector/factions/pirates)
+- **Allies:** [Galactic Federation](../federation), [The Heir](../heir), [Botani Union](../botani), [Independent](../independent)
+- **Enemies:** [Tauri Corporation](../tauri), [Pirates](../pirates), [Human Union](../union)
