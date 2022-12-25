@@ -20,7 +20,7 @@ They are led by The **Head of Administration** by rank and composed of 6 Divisio
 
 They are open trade to most others, including civilians, as that is what they do. To improve on technology and current equipment. Beowulf currently is a minor faction, they profit engineers and researchers to their work alike. They also profit farmers, selling seeds and often help regrowing a new earth.
 
-They are the original manufacturers and developers of the **Gravitech™** (or the Gravity Gun), **ACM®** (Rightfully owned by [Tauri](https://just-a-unity-dev.github.io/sector/factions/tauri) and the **Holotouch®** supervised by AI, physical holographic touch. And many more contributions.
+They are the original manufacturers and developers of the **ACM®** (Rightfully owned by [Tauri](https://just-a-unity-dev.github.io/sector/factions/tauri)) and the **Holotouch®** supervised by AI, arm-augmentation tech. Physical holographic touch. And many more contributions.
 
 ## Events
 
