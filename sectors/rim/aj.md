@@ -1,10 +1,14 @@
-# Sector Null, "Deadzone"
+# Sector AJ, "Deadzone"
 
-Not much is known about the Deadzone as cosmic storms prevent all radio transmissions, light and Ampersand travel from entering.
+**Sector AJ** is an outer sector that contains the Deadzone.
 
-The Cosmic Storms in the
+## Deadzone
 
-Sector Null fails to be researched further with the only transmission being let out taking nearly 8 years to decode.
+The **Deadzone** is a black nebulae with cosmic storms in and out of Ampersand.
+
+The **Cosmic Storms** in the **Deadzone** prevent leaving, however with [experimental drives](#beowulf), you are able to break through the **Cosmic Storms**.
+
+The **Deadzone** fails to be researched further with the only transmission being let out taking nearly 8 years to decode.
 
 ## [BEOWULF](../../factions/minor/beowulf)
 
