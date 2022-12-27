@@ -1,10 +1,10 @@
 # Sector AJ, "Deadzone"
 
-**Sector AJ** is an outer sector that contains the Deadzone.
+**Sector AJ** is a **Class-I Controlled** outer sector that contains the Deadzone.
 
 ## Deadzone
 
-The **Deadzone** is a black nebulae with cosmic storms in and out of Ampersand.
+The **Deadzone** is a **Class-R Remnant** black nebulae with cosmic storms in and out of Ampersand.
 
 The **Cosmic Storms** in the **Deadzone** prevent leaving, however with [experimental drives](#beowulf), you are able to break through the **Cosmic Storms**.
 
