@@ -26,12 +26,7 @@ def main():
                 continue
                 
             split = markdown.replace("\\", "/").split("/")
-            name = split.pop()[:-3].split("_")
-
-            for i,item in enumerate(name):
-                name[i] = item.capitalize()
-            
-            name = ' '.join(name)
+            name = split.pop()[:-3].replace("_", " ").title()
 
             if len(split) > 0:
                 if category != split[0]:
