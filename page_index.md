@@ -10,82 +10,112 @@
 
 ## Sectors
 
-- [ Map](sectors/_map)
-- [Ampersand](sectors/ampersand)
-- [Class-C Civilian (class)](sectors/class/class-C_civilian)
-- [Class-I Controlled (class)](sectors/class/class-I_controlled)
-- [Class-H Habitable (class)](sectors/class/class-H_habitable)
-- [Class-D Disputed (class)](sectors/class/class-D_disputed)
-- [Class-R Remnant (class)](sectors/class/class-R_remnant)
-- [Class-U Uninteresting (class)](sectors/class/class-U_uninteresting)
-- [A (disputed)](sectors/disputed/a)
-- [E (disputed)](sectors/disputed/e)
-- [D (disputed)](sectors/disputed/d)
-- [F (disputed)](sectors/disputed/f)
-- [I (disputed)](sectors/disputed/i)
-- [N (disputed)](sectors/disputed/n)
-- [H (disputed)](sectors/disputed/h)
-- [Z (habitable)](sectors/habitable/z)
-- [An (uninteresting)](sectors/uninteresting/an)
-- [Af (uninteresting)](sectors/uninteresting/af)
-- [Ag (uninteresting)](sectors/uninteresting/ag)
-- [Ak (uninteresting)](sectors/uninteresting/ak)
-- [Aq (uninteresting)](sectors/uninteresting/aq)
-- [Aa (uninteresting)](sectors/uninteresting/aa)
-- [Q (uninteresting)](sectors/uninteresting/q)
-- [At (uninteresting)](sectors/uninteresting/at)
-- [Av (uninteresting)](sectors/uninteresting/av)
-- [M (uninteresting)](sectors/uninteresting/m)
-- [R (uninteresting)](sectors/uninteresting/r)
-- [W (uninteresting)](sectors/uninteresting/w)
-- [Ae (uninteresting)](sectors/uninteresting/ae)
-- [X (uninteresting)](sectors/uninteresting/x)
-- [Ab (uninteresting)](sectors/uninteresting/ab)
-- [Ad (uninteresting)](sectors/uninteresting/ad)
-- [Al (uninteresting)](sectors/uninteresting/al)
-- [Ac (uninteresting)](sectors/uninteresting/ac)
-- [Y (uninteresting)](sectors/uninteresting/y)
-- [K (uninteresting)](sectors/uninteresting/k)
-- [P (remnant)](sectors/remnant/p)
-- [L (remnant)](sectors/remnant/l)
-- [S (remnant)](sectors/remnant/s)
-- [O (remnant)](sectors/remnant/o)
-- [U (remnant)](sectors/remnant/u)
-- [Ai (civilian)](sectors/civilian/ai)
-- [As (civilian)](sectors/civilian/as)
-- [Ar (civilian)](sectors/civilian/ar)
-- [B (civilian)](sectors/civilian/b)
-- [Ah (civilian)](sectors/civilian/ah)
-- [Ao (controlled)](sectors/controlled/ao)
-- [V (controlled)](sectors/controlled/v)
-- [G (controlled)](sectors/controlled/g)
-- [T (controlled)](sectors/controlled/t)
-- [C (controlled)](sectors/controlled/c)
-- [Aj (controlled)](sectors/controlled/aj)
-- [Au (controlled)](sectors/controlled/au)
-- [J (controlled)](sectors/controlled/j)
-- [Ap (controlled)](sectors/controlled/ap)
-- [Am (controlled)](sectors/controlled/am)
-- [U (controlled)](sectors/controlled/u)
+- [Map](sectors/map)
+
+### Class
+
+- [Class-C Civilian](sectors/class/class-C_civilian)
+- [Class-I Controlled](sectors/class/class-I_controlled)
+- [Class-H Habitable](sectors/class/class-H_habitable)
+- [Class-D Disputed](sectors/class/class-D_disputed)
+- [Class-R Remnant](sectors/class/class-R_remnant)
+- [Class-U Uninteresting](sectors/class/class-U_uninteresting)
+
+### Disputed
+
+- [A](sectors/disputed/a)
+- [Aq](sectors/disputed/aq)
+- [E](sectors/disputed/e)
+- [D](sectors/disputed/d)
+- [F](sectors/disputed/f)
+- [I](sectors/disputed/i)
+- [N](sectors/disputed/n)
+- [H](sectors/disputed/h)
+
+### Habitable
+
+- [An](sectors/habitable/an)
+- [Ag](sectors/habitable/ag)
+- [Ak](sectors/habitable/ak)
+- [Z](sectors/habitable/z)
+- [Ae](sectors/habitable/ae)
+- [Ab](sectors/habitable/ab)
+- [Ad](sectors/habitable/ad)
+- [Al](sectors/habitable/al)
+
+### Uninteresting
+
+- [At](sectors/uninteresting/at)
+- [W](sectors/uninteresting/w)
+- [X](sectors/uninteresting/x)
+- [Y](sectors/uninteresting/y)
+
+### Remnant
+
+- [P](sectors/remnant/p)
+- [L](sectors/remnant/l)
+- [Aa](sectors/remnant/aa)
+- [S](sectors/remnant/s)
+- [O](sectors/remnant/o)
+- [Av](sectors/remnant/av)
+- [Ampersand](sectors/remnant/ampersand)
+- [U](sectors/remnant/u)
+
+### Civilian
+
+- [Ai](sectors/civilian/ai)
+- [As](sectors/civilian/as)
+- [Ar](sectors/civilian/ar)
+- [Q](sectors/civilian/q)
+- [B](sectors/civilian/b)
+- [Ah](sectors/civilian/ah)
+- [M](sectors/civilian/m)
+- [R](sectors/civilian/r)
+
+### Controlled
+
+- [Ao](sectors/controlled/ao)
+- [V](sectors/controlled/v)
+- [Af](sectors/controlled/af)
+- [G](sectors/controlled/g)
+- [T](sectors/controlled/t)
+- [C](sectors/controlled/c)
+- [Aj](sectors/controlled/aj)
+- [Au](sectors/controlled/au)
+- [J](sectors/controlled/j)
+- [Ap](sectors/controlled/ap)
+- [Ac](sectors/controlled/ac)
+- [Am](sectors/controlled/am)
+- [U](sectors/controlled/u)
+- [K](sectors/controlled/k)
 
 ## Technology
 
 - [Ampersand Space](technology/ampersand_space)
 - [Ai Cores](technology/ai_cores)
 - [Network Of Knowledge](technology/network_of_knowledge)
-- [Photon Booms](technology/photon_booms)
 - [Ampersand Drives](technology/ampersand_drives)
 - [Antimatter](technology/antimatter)
 - [Cryosleep](technology/cryosleep)
+- [Genetic Modification](technology/genetic_modification)
 - [Planetkillers](technology/planetkillers)
 - [Databank](technology/databank)
 - [Cloning](technology/cloning)
 
 ## Culture
 
-- [Navigating The Quadrant (guide)](culture/guide/navigating_the_quadrant)
-- [Rose Matilda (figures)](culture/figures/rose_matilda)
-- [Distress (tale)](culture/tale/distress)
+
+### Guide
+
+- [Navigating The Quadrant](culture/guide/navigating_the_quadrant)
+
+### Figures
+
+- [Rose Matilda](culture/figures/rose_matilda)
+
+### Tale
+
+- [Distress](culture/tale/distress)
 
 ## Species
 
@@ -109,21 +139,32 @@
 
 ## Factions
 
-- [Botani](factions/botani)
-- [Heir](factions/heir)
-- [Tauri](factions/tauri)
-- [Human Union](factions/human_union)
-- [Pirates](factions/pirates)
-- [Federation](factions/federation)
-- [Roach Conglomerate (minor)](factions/minor/roach_conglomerate)
-- [Test Faction (minor)](factions/minor/test_faction)
-- [Beowulf (minor)](factions/minor/beowulf)
-- [Independent (minor)](factions/minor/independent)
-- [Quadom (remnant)](factions/remnant/quadom)
+
+### Governments
+
+- [Heir](factions/governments/heir)
+- [Federation](factions/governments/federation)
+
+### Organization
+
+- [Botani](factions/organization/botani)
+- [Human Union](factions/organization/human_union)
+- [Pirates](factions/organization/pirates)
+- [Independent](factions/organization/independent)
+
+### Companies
+
+- [Tauri](factions/companies/tauri)
+- [Beowulf](factions/companies/beowulf)
+
+### Remnant
+
+- [Test Faction](factions/remnant/test_faction)
+- [Quadom](factions/remnant/quadom)
 
 ## Events
 
-- [Alien Expansion](events/alien_expansion)
+- [Genetic Expansion](events/genetic_expansion)
 - [Human Union Secede](events/human_union_secede)
 - [Heir Secede](events/heir_secede)
 - [Sol Antimatter Mishap](events/sol_antimatter_mishap)
