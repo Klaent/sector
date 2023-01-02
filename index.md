@@ -14,9 +14,9 @@ New to the universe? You can read the [Brief Explanation](brief_explanation) to 
 
 ## Things to keep in mind
 
-- FTL is possible but is usually weaponized (see: [photonic booms](technology/photon_booms)) on planetary and space combat.
+- FTL is **not possible**.
 - People travel using an [Ampersand Drive](technology/ampersand_drives), which basically opens a wormhole into Ampersand space allowing for easy traversal through Sectors.
 - Each Quadrant (galaxy) has a unique trait about it, the Milky Way's being [Ampersand Space](technology/ampersand_space).
 - Each faction is wrong in their own way, but it's up to the reader to believe which faction is morally good or bad.
 - Culture is diverse on the Quadrant, one sector could be techtianity believers while the next could be athiests.
-- Anything can happen on the Quadrant, when I mean anything, I mean anything (as long as it follows the laws of physics).
+- Anything can happen on the Quadrant as long as it follows the laws of physics.
