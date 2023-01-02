@@ -1,6 +1,6 @@
 # [Quadrantal Federation](federation)
 
-![federation](../images/flags/federation.png)
+![federation](../../images/flags/federation.png)
 
 > "For the quadrant and beyond!"
 
@@ -12,7 +12,7 @@ species, trying for equality.
 Initially founded in 2153 after the researchers, mercenaries and engineers got tired of land
 politics affected life in space, with the first Federation rally happening in the same year.
 
-It began to grow rapidly, the Federation ran as humans wanting to ditch the old Earth ways of arguing over land politics. It developed divisions such as the [Tauri Division (now the Tauri Corporation)](tauri).
+It began to grow rapidly, the Federation ran as humans wanting to ditch the old Earth ways of arguing over land politics. It developed divisions such as the [Tauri Division (now the Tauri Corporation)](../companies/tauri).
 
 There began a distrust between the Tauri Division and the Federation as weapons of mass destruction and [planetkillers](../technology/planetkillers) (DO NOT RESEARCH) were developed, and [antimatter](../technology/antimatter) was discovered.
 

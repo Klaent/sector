@@ -1,8 +1,8 @@
 # Independent
 
-![independent](../images/flags/independent.png)
+![independent](../../images/flags/independent.png)
 
-> "Please leave us alone."
+> "Please leave us alone." - A transmission from an unidentified Independent ship terrorized by a pirate fleet.
 
 The **Independent** faction is not really one *unified* faction per se but rather a union of merchants, traders, workers and more. If it doesn't have a flag, then it's probably an Independent ship.
 
