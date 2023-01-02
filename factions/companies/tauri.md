@@ -33,5 +33,5 @@ A major controversy involving the **Tauri Corporation** is that they profit off 
 
 ## Diplomatic Chart
 
-- **Allies:** [Human Union](human_union), [Roach Conglomerate](roach_conglomerate), [Galactic Federation](federation), The Heir
+- **Allies:** [Human Union](human_union), [Galactic Federation](federation), The Heir
 - **Enemies:** [Botani Union](botani), [BEOWULF](minor/beowulf), [Pirates](pirates)

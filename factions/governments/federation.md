@@ -26,5 +26,5 @@ The **Federation** has been square-one in many controversies across the Quadrant
 
 ## Diplomatic Chart
 
-- **Allies:** [Roach Conglomerate](roach_conglomerate), [Botani Union](botani), [Tauri Corporation](tauri)
+- **Allies:** [Botani Union](botani), [Tauri Corporation](tauri)
 - **Enemies:** [Human Union](human_union), [Pirates](pirates), The Heir
