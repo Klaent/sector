@@ -8,5 +8,5 @@
 
 ## Diplomatic Chart
 
-- **Allies:** [Botani Union](botani), [Tauri Corporation](tauri)
-- **Enemies:** [Human Union](human_union), [Pirates](pirates), [Galactic Federation](federation)
+- **Allies:** [Botani Union](../organization/botani.md), [Tauri Corporation](../companies/tauri.md)
+- **Enemies:** [Human Union](../organization/human_union.md), [Pirates](../organization/human_union.md), [Galactic Federation](federation)

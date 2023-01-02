@@ -16,5 +16,5 @@ The **Human Union** is currently winning the [Federation-Union War](../events/fe
 
 ## Diplomatic Chart
 
-- **Allies:** [Tauri Corporation](tauri)
+- **Allies:** [Tauri Corporation](../companies/tauri.md)
 - **Enemies:** [Botani Union](botani), [Pirates](pirates)
