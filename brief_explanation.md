@@ -30,7 +30,7 @@ The [Tauri Division](factions/tauri) (now the Tauri Corporation) was kind enough
 
 With the Federation's leading research department seceding, the Federation had to make due with the ships they currently had and created four main divisions: The **Administration**, **Engineering**, **Research** and **Defense** divisions.
 
-In 2425, the [**Alien Expansion**](events/alien_expansion) occurred and humans were not sure what to do with said alien species. Some people suggested capturing them for research, others suggested incorporating them under the [Federation](factions/federation).
+In 2425, the [**Genetic Expansion**](events/genetic_expansion) occurred when a [genetic modification experiment](technology/genetic_modification), people were not sure what to do with said alien species. Some people suggested capturing them for research, others suggested incorporating them under the [Federation](factions/federation).
 
 It took around 4 years for the [Federation](factions/federation) to come to a consensus, and within those 4 years; rumors of a major civil war occuring were widespread as a certain [Human Union](faction/human_union) were planning to secede. The [Federation](factions/federation) decided to embrace their alien brothers & sisters (and all other wacky genders they have) and welcome them all a seat on the [Federation](factions/federation) council.
 
