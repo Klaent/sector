@@ -1,7 +1,7 @@
 from glob import glob
 import time
 
-exclude = ["README.md"]
+exclude = open(".indexignore").readlines()
 
 def main():
     start = time.process_time()
