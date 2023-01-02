@@ -1,40 +1,44 @@
 from glob import glob
-import pyfiglet
 import time
 
 exclude = ["README.md"]
 
 def main():
-    pyfiglet.print_figlet("Indexer")
-
     start = time.process_time()
-
-    print("now indexing files.")
+    print("indexer started.")
     files = glob("**/*.md", recursive=True)
     print("indexed files.")
 
     print("now writing files.")
-
     with open("page_index.md", "w") as file:
         file.truncate(0) # reset it
         file.write("# Page Index\n\n")
         file.write("*if there is an issue, please submit a [bug report](https://github.com/Just-a-Unity-Dev/sector/issues/new/choose)*\n\n")
+        
         category = None
+        subcategory = None
+
         file.write("## Meta\n\n")
         for markdown in files:
             if markdown.startswith("build") or markdown in exclude:
                 continue
                 
-            split = markdown.replace("\\", "/").split("/")
-            name = split.pop()[:-3].replace("_", " ").title()
-
-            if len(split) > 0:
-                if category != split[0]:
-                    file.write(f"\n## {split[0].capitalize()}\n\n")
-                    category = split[0]
+            categories = markdown.replace("\\", "/").split("/")
+            name = categories.pop()[:-3].replace("_", " ").title()
             
-            if len(split) > 1:
-                name += f" ({split[1]})"
+            # this could be so much more efficient, oh well
+            if len(categories) > 0:
+                if category != categories[0]:
+                    file.write(f"\n## {categories[0].capitalize()}\n\n")
+                    category = categories[0]
+            
+            if len(categories) > 1:
+                if subcategory != categories[1]:
+                    file.write(f"\n### {categories[1].capitalize()}\n\n")
+                    subcategory = categories[1]
+
+            if len(categories) > 2:
+                name += f" ({categories[2]})"
             
             if name == "Index":
                 name = "Homepage"
