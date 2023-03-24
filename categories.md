@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sector/categories/
+permalink: /categories/
 title: Categories
 ---
 
