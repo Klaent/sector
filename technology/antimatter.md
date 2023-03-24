@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: [Technology, Discoveries]
+categories: 
+  - technology
 ---
 
 # Antimatter

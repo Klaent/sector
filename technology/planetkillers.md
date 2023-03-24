@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: [Technology, Weaponry]
+categories: 
+  - technology
+  - weaponry
 ---
 
 # Planetkillers

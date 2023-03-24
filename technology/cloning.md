@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: [Technology, Medical]
+categories: 
+  - technology
 ---
 
 # Cloning

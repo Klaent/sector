@@ -4,7 +4,14 @@ permalink: /categories/
 title: Categories
 ---
 
-{% include "posts" categories="Technology" %}
+{% for cat in page.categories %}
+  <h1>{{ cat }}</h1>
+  <ul>
+    {% for post in site.categories[cat] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 <div id="archives">
   {% for category in site.categories %}

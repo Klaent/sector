@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: [Technology, Ampersand]
+categories: 
+  - technology
+  - ampersand
 ---
 
 # Ampersand Drives (&D)
