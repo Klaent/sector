@@ -5,6 +5,7 @@
 ## Meta
 
 - [Page Index](page_index)
+- [Categories](categories)
 - [Homepage](index)
 - [Brief Explanation](brief_explanation)
 
@@ -26,10 +27,6 @@
 ### Guide
 
 - [Navigating The Quadrant](culture/guide/navigating_the_quadrant)
-
-## _pages
-
-- [Categories](_pages/categories)
 
 ## Species
 
