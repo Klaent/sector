@@ -7,5 +7,5 @@ header_pages:
   - brief_explanation.md
   - page_index.md
 exclude: ["README.md"]
-url: https://just-a-unity-dev.github.io/
-baseurl: "/sector/"
+url: https://sectors-universe.netlify.app/
+baseurl: "/"
