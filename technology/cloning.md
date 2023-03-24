@@ -1,3 +1,7 @@
+---
+categories: [Technology, Medical]
+---
+
 # Cloning
 
 **Cloning** is a technology created by the [Tauri Corporation](../factions/tauri) and the [Federation](../factions/federation) while working together. **Cloning** involves cloning a humanoid with a dead body or a brain.

@@ -1,3 +1,7 @@
+---
+categories: [Technology]
+---
+
 # Cryosleep
 
 ![cryopod gif](../images/thumbnail/cryo.gif)

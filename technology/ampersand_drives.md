@@ -1,3 +1,7 @@
+---
+categories: [Technology, Ampersand]
+---
+
 # Ampersand Drives (&D)
 
 *Not to be confused with the space [Ampersand](ampersand_space) or the sector [Ampersand](../sectors/ampersand)*

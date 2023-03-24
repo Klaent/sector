@@ -1,3 +1,7 @@
+---
+categories: [Technology, Ampersand]
+---
+
 # Ampersand Space
 
 *Not to be confused with the sector [Ampersand](../sectors/ampersand) or the drive [Ampersand](../technology/ampersand_drives)*
