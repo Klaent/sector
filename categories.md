@@ -4,6 +4,8 @@ permalink: /categories/
 title: Categories
 ---
 
+{% include "posts" categories="Technology" %}
+
 <div id="archives">
   {% for category in site.categories %}
     <div class="archive-group">
