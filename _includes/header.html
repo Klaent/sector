@@ -18,12 +18,9 @@
           </label>
   
           <div class="trigger">
-            {%- for path in page_paths -%}
-              {%- assign my_page = site.pages | where: "path", path | first -%}
-              {%- if my_page.categories.contains "toolbar" -%}
-              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              {%- endif -%}
-            {%- endfor -%}
+            <a class="page-link" href="/"><img src="images/svgs/home.svg" style="max-width: 32px;"></a>
+            <a class="page-link" href="/meta/notable"><img src="images/svgs/article.svg" style="max-width: 32px;"></a>
+            <a class="page-link" href="/meta/search"><img src="images/svgs/search.svg" style="max-width: 32px;"></a>
           </div>
         </nav>
       {%- endif -%}
