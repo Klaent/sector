@@ -7,8 +7,10 @@ categories:
 
 # Notable Pages
 
-[Categories](/meta/categories.md)
+[Categories](/meta/categories)
 
-[Brief Explanation](/meta/brief_explanation.md)
+[Brief Explanation](/meta/brief_explanation)
 
-[Search](/meta/search.md)
+[Search](/meta/search)
+
+[Page Index](/meta/page_index)
