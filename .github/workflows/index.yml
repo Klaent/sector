@@ -28,7 +28,7 @@ jobs:
       
       - name: execute script
         run: |
-          python index.py
+          python indexer.py
       
       - name: deploy
         run: |

@@ -12,7 +12,7 @@ def main():
     print("now writing files.")
     with open("page_index.md", "w") as file:
         file.truncate(0) # reset it
-        file.write("---\ntitle: Page Index\n---\n\n")
+        file.write("---\ntitle: Page Index\nlayout: page\n---\n\n")
         file.write("# Page Index\n\n")
         file.write("*if there is an issue, please submit a [bug report](https://github.com/Just-a-Unity-Dev/sector/issues/new/choose)*\n\n")
         
@@ -21,7 +21,7 @@ def main():
 
         file.write("## Meta\n\n")
         for markdown in files:
-            if markdown.startswith("build") or markdown in exclude:
+            if markdown.startswith("build") or markdown.startswith("_") or markdown in exclude:
                 continue
                 
             categories = markdown.replace("\\", "/").split("/")

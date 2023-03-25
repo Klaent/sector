@@ -1,5 +1,6 @@
 ---
 title: Page Index
+layout: page
 ---
 
 # Page Index
@@ -8,107 +9,105 @@ title: Page Index
 
 ## Meta
 
-- [Page Index](page_index)
-- [Categories](categories)
 - [Homepage](index)
+- [Page Index](page_index)
 - [Readme](README)
-- [Brief Explanation](brief_explanation)
 
 ## Culture
 
 
-### Languages
-
-- [Quadrantical Common](culture/languages/quadrantical_common)
-
 ### Figures
 
-- [Rose Matilda](culture/figures/rose_matilda)
-
-### Tale
-
-- [Distress](culture/tale/distress)
+- [Rose Matilda](culture\figures\rose_matilda)
 
 ### Guide
 
-- [Navigating The Quadrant](culture/guide/navigating_the_quadrant)
+- [Navigating The Quadrant](culture\guide\navigating_the_quadrant)
 
-## Species
+### Languages
 
-- [Borgs](species/borgs)
-- [Fungi](species/fungi)
-- [Roaches](species/roaches)
-- [Thornlings](species/thornlings)
-- [Autho](species/autho)
-- [Husks](species/husks)
-- [Humans](species/humans)
-- [Felinids](species/felinids)
-- [Arachnids](species/arachnids)
-- [Elems](species/elems)
-- [Warblers](species/warblers)
+- [Quadrantical Common](culture\languages\quadrantical_common)
 
-## Technology
+### Tale
 
-- [Genetic Modification](technology/genetic_modification)
-- [Cryosleep](technology/cryosleep)
-- [Ampersand Space](technology/ampersand_space)
-- [Cloning](technology/cloning)
-- [Ampersand Drives](technology/ampersand_drives)
-- [Databank](technology/databank)
-- [Antimatter](technology/antimatter)
-- [Ai Cores](technology/ai_cores)
-- [Network Of Knowledge](technology/network_of_knowledge)
-- [Pda](technology/pda)
-- [Planetkillers](technology/planetkillers)
+- [Distress](culture\tale\distress)
 
-## Sectors
+## Events
 
-- [Map](sectors/map)
+- [Federation Revolution](events\federation_revolution)
+- [Genetic Expansion](events\genetic_expansion)
+- [Heir Secede](events\heir_secede)
+- [Human Union Secede](events\human_union_secede)
 
-### Class
+### Wars
 
-- [Class-C Civilian](sectors/class/class-C_civilian)
-- [Class-D Disputed](sectors/class/class-D_disputed)
-- [Class-I Controlled](sectors/class/class-I_controlled)
-- [Class-U Uninteresting](sectors/class/class-U_uninteresting)
-- [Class-R Remnant](sectors/class/class-R_remnant)
-- [Class-H Habitable](sectors/class/class-H_habitable)
+- [Federation Civil War](events\wars\federation_civil_war)
+- [Office Purge](events\wars\office_purge)
+- [Sol Wars](events\wars\sol_wars)
 
 ## Factions
 
 
-### Remnant
-
-- [Test Faction](factions/remnant/test_faction)
-- [Quadom](factions/remnant/quadom)
-
 ### Companies
 
-- [Tauri](factions/companies/tauri)
-- [Paperclips](factions/companies/paperclips)
-- [Beowulf](factions/companies/beowulf)
-
-### Organization
-
-- [Pirates](factions/organization/pirates)
-- [Independent](factions/organization/independent)
-- [Human Union](factions/organization/human_union)
-- [Botani](factions/organization/botani)
+- [Beowulf](factions\companies\beowulf)
+- [Paperclips](factions\companies\paperclips)
+- [Tauri](factions\companies\tauri)
 
 ### Governments
 
-- [Federation](factions/governments/federation)
-- [Heir](factions/governments/heir)
+- [Federation](factions\governments\federation)
+- [Heir](factions\governments\heir)
 
-## Events
+### Organization
 
-- [Genetic Expansion](events/genetic_expansion)
-- [Federation Revolution](events/federation_revolution)
-- [Human Union Secede](events/human_union_secede)
-- [Heir Secede](events/heir_secede)
+- [Botani](factions\organization\botani)
+- [Human Union](factions\organization\human_union)
+- [Independent](factions\organization\independent)
+- [Pirates](factions\organization\pirates)
 
-### Wars
+### Remnant
 
-- [Sol Wars](events/wars/sol_wars)
-- [Federation Civil War](events/wars/federation_civil_war)
-- [Office Purge](events/wars/office_purge)
+- [Quadom](factions\remnant\quadom)
+- [Test Faction](factions\remnant\test_faction)
+
+## Sectors
+
+- [Map](sectors\map)
+
+### Class
+
+- [Class-C Civilian](sectors\class\class-C_civilian)
+- [Class-D Disputed](sectors\class\class-D_disputed)
+- [Class-H Habitable](sectors\class\class-H_habitable)
+- [Class-I Controlled](sectors\class\class-I_controlled)
+- [Class-R Remnant](sectors\class\class-R_remnant)
+- [Class-U Uninteresting](sectors\class\class-U_uninteresting)
+
+## Species
+
+- [Arachnids](species\arachnids)
+- [Autho](species\autho)
+- [Borgs](species\borgs)
+- [Elems](species\elems)
+- [Felinids](species\felinids)
+- [Fungi](species\fungi)
+- [Humans](species\humans)
+- [Husks](species\husks)
+- [Roaches](species\roaches)
+- [Thornlings](species\thornlings)
+- [Warblers](species\warblers)
+
+## Technology
+
+- [Ai Cores](technology\ai_cores)
+- [Ampersand Drives](technology\ampersand_drives)
+- [Ampersand Space](technology\ampersand_space)
+- [Antimatter](technology\antimatter)
+- [Cloning](technology\cloning)
+- [Cryosleep](technology\cryosleep)
+- [Databank](technology\databank)
+- [Genetic Modification](technology\genetic_modification)
+- [Network Of Knowledge](technology\network_of_knowledge)
+- [Pda](technology\pda)
+- [Planetkillers](technology\planetkillers)
