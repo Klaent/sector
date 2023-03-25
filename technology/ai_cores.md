@@ -1,11 +1,10 @@
 ---
-layout: post
+title: AI Cores
+layout: page
 categories:
   - technology
   - ai
 ---
-
-# AI Cores
 
 ![ai core](../images/thumbnail/ai_core.png)
 
