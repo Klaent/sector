@@ -1,5 +1,6 @@
 ---
-categories: 
+layout: post
+categories:
   - technology
   - ai
 ---

@@ -3,7 +3,5 @@ description: "A databank consisting of everything you need to know about the Sec
 theme: minima
 minima:
   skin: dark
-header_pages:
-  - brief_explanation.md
-  - page_index.md
+lang: en
 exclude: ["README.md"]

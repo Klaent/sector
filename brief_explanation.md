@@ -1,4 +1,7 @@
-# A Brief Summary
+---
+layout: post
+title: A Brief Summary
+---
 
 In Sol years, the year is 4853, humans are around the same as humans in the 21st century, speaking Quadrantical Common.
 
