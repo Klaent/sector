@@ -65,24 +65,6 @@ title: Page Index
 
 - [Map](sectors/map)
 
-### Remnant
-
-- [Av](sectors/remnant/av)
-- [L](sectors/remnant/l)
-- [U](sectors/remnant/u)
-- [S](sectors/remnant/s)
-- [Ampersand](sectors/remnant/ampersand)
-- [P](sectors/remnant/p)
-- [Aa](sectors/remnant/aa)
-- [O](sectors/remnant/o)
-
-### Uninteresting
-
-- [W](sectors/uninteresting/w)
-- [X](sectors/uninteresting/x)
-- [Y](sectors/uninteresting/y)
-- [At](sectors/uninteresting/at)
-
 ### Class
 
 - [Class-C Civilian](sectors/class/class-C_civilian)
@@ -91,56 +73,6 @@ title: Page Index
 - [Class-U Uninteresting](sectors/class/class-U_uninteresting)
 - [Class-R Remnant](sectors/class/class-R_remnant)
 - [Class-H Habitable](sectors/class/class-H_habitable)
-
-### Civilian
-
-- [Ah](sectors/civilian/ah)
-- [M](sectors/civilian/m)
-- [B](sectors/civilian/b)
-- [Ar](sectors/civilian/ar)
-- [As](sectors/civilian/as)
-- [Q](sectors/civilian/q)
-- [Ai](sectors/civilian/ai)
-- [R](sectors/civilian/r)
-
-### Disputed
-
-- [E](sectors/disputed/e)
-- [A](sectors/disputed/a)
-- [I](sectors/disputed/i)
-- [Aq](sectors/disputed/aq)
-- [H](sectors/disputed/h)
-- [N](sectors/disputed/n)
-- [D](sectors/disputed/d)
-- [F](sectors/disputed/f)
-
-### Habitable
-
-- [Ae](sectors/habitable/ae)
-- [Z](sectors/habitable/z)
-- [Ak](sectors/habitable/ak)
-- [Al](sectors/habitable/al)
-- [An](sectors/habitable/an)
-- [Ag](sectors/habitable/ag)
-- [Ad](sectors/habitable/ad)
-- [Ab](sectors/habitable/ab)
-
-### Controlled
-
-- [Aj](sectors/controlled/aj)
-- [Au](sectors/controlled/au)
-- [K](sectors/controlled/k)
-- [Af](sectors/controlled/af)
-- [U](sectors/controlled/u)
-- [Ac](sectors/controlled/ac)
-- [T](sectors/controlled/t)
-- [G](sectors/controlled/g)
-- [Ao](sectors/controlled/ao)
-- [J](sectors/controlled/j)
-- [V](sectors/controlled/v)
-- [C](sectors/controlled/c)
-- [Ap](sectors/controlled/ap)
-- [Am](sectors/controlled/am)
 
 ## Factions
 
