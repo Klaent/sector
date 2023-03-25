@@ -1,5 +1,8 @@
 ---
-layout: page 
+layout: home
+categories:
+- meta
+- toolbar
 ---
 
 <h1>Network Of Knowledge | Main Page</h1>

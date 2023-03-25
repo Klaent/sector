@@ -1,0 +1,9 @@
+---
+layout: page
+# The Category layout
+---
+
+{% for page in site.pages %}
+    <h2>{{page.title}}</h2>
+    {{ page.categories | join: ", " | capitalize }}
+{% endfor %}
