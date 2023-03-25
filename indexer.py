@@ -10,7 +10,7 @@ def main():
     print("indexed files.")
 
     print("now writing files.")
-    with open("page_index.md", "w") as file:
+    with open("_meta/page_index.md", "w") as file:
         file.truncate(0) # reset it
         file.write("---\ntitle: Page Index\nlayout: page\n---\n\n")
         file.write("# Page Index\n\n")
