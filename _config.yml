@@ -10,22 +10,22 @@ exclude: ["README.md"]
 collections:
   sectors:
     output: true
-    permalink: /:collection/path/
+    permalink: /:collection/:path/
   species:
     output: true
-    permalink: /:collection/path/
+    permalink: /:collection/:path/
   technology:
     output: true
-    permalink: /:collection/
+    permalink: /:collection/:path/
   factions:
     output: true
-    permalink: /:collection/path/
+    permalink: /:collection/:path/
   events:
     output: true
-    permalink: /:collection/path/
+    permalink: /:collection/:path/
   culture:
     output: true
-    permalink: /:collection/path/
+    permalink: /:collection/:path/
   meta:
     output: true
     permalink: /:collection/:path/
