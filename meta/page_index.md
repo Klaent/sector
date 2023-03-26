@@ -9,102 +9,102 @@ layout: page
 ## Culture
 
 
-### Figures
-
-- [Rose K. Matilda](articles\culture\figures\rose_matilda)
-
 ### Languages
 
-- [Human English](articles\culture\languages\human_english)
-- [Quadrantical Common](articles\culture\languages\quadrantical_common)
+- [Quadrantical Common](/articles/culture/languages/quadrantical_common)
+- [Human English](/articles/culture/languages/human_english)
+
+### Figures
+
+- [Rose K. Matilda](/articles/culture/figures/rose_matilda)
 
 ### Tale
 
-- [Distress](articles\culture\tale\distress)
+- [Distress](/articles/culture/tale/distress)
 
-## Documents
+## Species
 
-- [Being Rights](articles\documents\being-rights)
+- [Fungus (fungi)](/articles/species/fungi)
+- [Humans (human)](/articles/species/humans)
+- [Felines (feline)](/articles/species/felinids)
+- [Slimes (slime)](/articles/species/slimes)
+- [Arachnids (arachnid)](/articles/species/arachnids)
+- [Elems (elem)](/articles/species/elems)
+- [Untitled Article](/articles/species/serpents)
 
-## Events
+## Technology
 
-- [Federation Revolution](articles\events\federation_revolution)
-- [Genetic Expansion](articles\events\genetic_expansion)
-- [Heir Seccesion](articles\events\heir_secede)
-- [Human Union Secession](articles\events\human_union_secede)
+- [Genetic Modification](/articles/technology/genetic_modification)
+- [Charge Weaponry](/articles/technology/charge_weaponry)
+- [Cryosleep](/articles/technology/cryosleep)
+- [Ampersand Space](/articles/technology/ampersand_space)
+- [Cloning](/articles/technology/cloning)
+- [Growth Tube](/articles/technology/growth_tube)
+- [Ampersand Drives](/articles/technology/ampersand_drives)
+- [Charge Energy](/articles/technology/charge_energy)
+- [Databank](/articles/technology/databank)
+- [Antimatter](/articles/technology/antimatter)
+- [AI Cores](/articles/technology/ai_cores)
+- [Network of Knowledge](/articles/technology/network_of_knowledge)
+- [PDA](/articles/technology/pda)
+- [Untitled Article](/articles/technology/planetkillers)
+- [Charge Shield](/articles/technology/charge_shield)
 
-### Incidents
+## Sectors
 
-- [Earth FTL Incident](articles\events\incidents\earth_ftl_incident)
+- [Full Map Of The Quadrant](/articles/sectors/map)
 
-### Wars
+### Class
 
-- [Federation-Union Civil War](articles\events\wars\federation_civil_war)
-- [Office Purge](articles\events\wars\office_purge)
+- [Class-C "Civilian"](/articles/sectors/class/class-C_civilian)
+- [Class-D "Disputed"](/articles/sectors/class/class-D_disputed)
+- [Class-I "Controlled"](/articles/sectors/class/class-I_controlled)
+- [Class-U "Uninteresting"](/articles/sectors/class/class-U_uninteresting)
+- [Class-R "Remnant"](/articles/sectors/class/class-R_remnant)
+- [Class-H "Habitable"](/articles/sectors/class/class-H_habitable)
 
 ## Factions
 
 
+### Remnant
+
+- [Test Faction](/articles/factions/remnant/test_faction)
+- [Quadom](/articles/factions/remnant/quadom)
+
 ### Companies
 
-- [Beowulf Central Coop](articles\factions\companies\beowulf)
-- [Paperclip Incorporated](articles\factions\companies\paperclips)
-- [Tauri Corporation](articles\factions\companies\tauri)
-
-### Governments
-
-- [Federation](articles\factions\governments\federation)
-- [Untitled Article](articles\factions\governments\heir)
+- [Tauri Corporation](/articles/factions/companies/tauri)
+- [Paperclip Incorporated](/articles/factions/companies/paperclips)
+- [Beowulf Central Coop](/articles/factions/companies/beowulf)
 
 ### Organization
 
-- [Botani](articles\factions\organization\botani)
-- [Human Union](articles\factions\organization\human_union)
-- [Independent](articles\factions\organization\independent)
-- [Tauri Corporation](articles\factions\organization\pirates)
+- [Tauri Corporation](/articles/factions/organization/pirates)
+- [Independent](/articles/factions/organization/independent)
+- [Human Union](/articles/factions/organization/human_union)
+- [Botani](/articles/factions/organization/botani)
 
-### Remnant
+### Governments
 
-- [Quadom](articles\factions\remnant\quadom)
-- [Test Faction](articles\factions\remnant\test_faction)
+- [Federation](/articles/factions/governments/federation)
+- [Untitled Article](/articles/factions/governments/heir)
 
-## Sectors
+## Documents
 
-- [Full Map Of The Quadrant](articles\sectors\map)
+- [Being Rights](/articles/documents/being-rights)
 
-### Class
+## Events
 
-- [Class-C "Civilian"](articles\sectors\class\class-C_civilian)
-- [Class-D "Disputed"](articles\sectors\class\class-D_disputed)
-- [Class-H "Habitable"](articles\sectors\class\class-H_habitable)
-- [Class-I "Controlled"](articles\sectors\class\class-I_controlled)
-- [Class-R "Remnant"](articles\sectors\class\class-R_remnant)
-- [Class-U "Uninteresting"](articles\sectors\class\class-U_uninteresting)
+- [Genetic Expansion](/articles/events/genetic_expansion)
+- [Federation Revolution](/articles/events/federation_revolution)
+- [Human Union Secession](/articles/events/human_union_secede)
+- [Heir Seccesion](/articles/events/heir_secede)
 
-## Species
+### Wars
 
-- [Arachnids (arachnid)](articles\species\arachnids)
-- [Elems (elem)](articles\species\elems)
-- [Felines (feline)](articles\species\felinids)
-- [Fungus (fungi)](articles\species\fungi)
-- [Humans (human)](articles\species\humans)
-- [Untitled Article](articles\species\serpents)
-- [Slimes (slime)](articles\species\slimes)
+- [Federation-Union Civil War](/articles/events/wars/federation_civil_war)
+- [Office Purge](/articles/events/wars/office_purge)
 
-## Technology
+### Incidents
 
-- [AI Cores](articles\technology\ai_cores)
-- [Ampersand Drives](articles\technology\ampersand_drives)
-- [Ampersand Space](articles\technology\ampersand_space)
-- [Antimatter](articles\technology\antimatter)
-- [Charge Energy](articles\technology\charge_energy)
-- [Charge Shield](articles\technology\charge_shield)
-- [Charge Weaponry](articles\technology\charge_weaponry)
-- [Cloning](articles\technology\cloning)
-- [Cryosleep](articles\technology\cryosleep)
-- [Databank](articles\technology\databank)
-- [Genetic Modification](articles\technology\genetic_modification)
-- [Growth Tube](articles\technology\growth_tube)
-- [Network of Knowledge](articles\technology\network_of_knowledge)
-- [PDA](articles\technology\pda)
-- [Untitled Article](articles\technology\planetkillers)
+- [Earth FTL Incident](/articles/events/incidents/earth_ftl_incident)
