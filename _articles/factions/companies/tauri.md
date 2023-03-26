@@ -1,6 +1,6 @@
 # [Tauri Corporation](tauri)
 
-![tauri_corp](../../images/flags/tauri_corp.png)
+![tauri_corp](/images/flags/tauri_corp.png)
 
 > "War with others creates opportunities for commissions and contracts, why stop on one side when you can be on both sides?" - Anita Tauri, CEO
 

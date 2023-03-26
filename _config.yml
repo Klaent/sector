@@ -8,24 +8,10 @@ lang: en
 exclude: ["README.md"]
 
 collections:
-  sectors:
-    output: true
-    permalink: /:collection/:path/
-  species:
-    output: true
-    permalink: /:collection/:path/
-  technology:
-    output: true
-    permalink: /:collection/:path/
-  factions:
-    output: true
-    permalink: /:collection/:path/
-  events:
-    output: true
-    permalink: /:collection/:path/
-  culture:
+  articles:
     output: true
     permalink: /:collection/:path/
   meta:
     output: true
     permalink: /:collection/:path/
+    

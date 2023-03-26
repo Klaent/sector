@@ -1,6 +1,6 @@
 # Independent
 
-![independent](../../images/flags/independent.png)
+![independent](/images/flags/independent.png)
 
 > "Please leave us alone." - A transmission from an unidentified Independent ship terrorized by a pirate fleet.
 

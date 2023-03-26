@@ -6,7 +6,7 @@ categories:
   - ai
 ---
 
-![ai core](../images/thumbnail/ai_core.png)
+![ai core](/images/thumbnail/ai_core.png)
 
 **AI Cores** (standing for Artificial Intelligence) are advanced computers capable of holding a sentient being or creating a sentient being for a special edge-case. These special edge cases range from maintaining a ships course during long trips or preserving sentient minds.
 
