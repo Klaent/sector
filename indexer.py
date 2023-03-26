@@ -1,4 +1,6 @@
 from glob import glob
+import markdown as markd
+import pathlib as pl
 import time
 
 exclude = open(".indexignore").readlines()
@@ -6,7 +8,7 @@ exclude = open(".indexignore").readlines()
 def main():
     start = time.process_time()
     print("indexer started.")
-    files = glob("**/*.md", recursive=True)
+    files = glob("_articles/**/*.md", recursive=True)
     print("indexed files.")
 
     print("now writing files.")
@@ -21,12 +23,21 @@ def main():
 
         file.write("## Meta\n\n")
         for markdown in files:
-            if markdown.startswith("build") or markdown.startswith("_") or markdown in exclude:
+            if markdown.startswith("build") or markdown.startswith("_site") or markdown in exclude:
                 continue
                 
-            categories = markdown.replace("\\", "/").split("/")
-            name = categories.pop()[:-3].replace("_", " ").title()
-            
+            categories = markdown.replace("\\", "/").replace("_","").split("/")
+            categories.pop(0)
+            print(categories)
+
+            data = pl.Path(markdown[:len(markdown)]).read_text(encoding="utf-8")
+            md = markd.Markdown(extensions=['meta'])
+            md.convert(data)
+            try:
+                name = md.Meta["title"][0]
+            except KeyError:
+                name = "Untitled Article"
+
             # this could be so much more efficient, oh well
             if len(categories) > 0:
                 if category != categories[0]:
@@ -41,8 +52,6 @@ def main():
             if len(categories) > 2:
                 name += f" ({categories[2]})"
             
-            if name == "Index":
-                name = "Homepage"
 
             file.write(f"- [{name}]({markdown[:len(markdown) - 3]})\n")
             
