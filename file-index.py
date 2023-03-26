@@ -52,7 +52,7 @@ def main():
                 name += f" ({categories[2]})"
             
 
-            file.write(f"- [{name}]({markdown[:len(markdown) - 3]})\n")
+            file.write(f"- [{name}](/{markdown[:len(markdown) - 3]})\n")
             
     end = time.process_time()
 
