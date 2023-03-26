@@ -237,9 +237,6 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 campaign/
 
-# Make sure those pesky developers don't commit the page_index on accident!
-page_index.md
-
 images/blender/render
 
 *.gem

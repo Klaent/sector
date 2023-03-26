@@ -5,17 +5,17 @@
 var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}{
     "id": {{ counter }},
     "url": "{{ site.url }}{{ page.url }}",
-    "title": "{{ page.title }}",
+    "title": "{{ page.title | replace: '"', "'" }}",
     "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
 }, {% endif %}{% endfor %}{% for page in site.articles %}{
     "id": {{ counter }},
     "url": "{{ site.url }}{{ page.url }}",
-    "title": "{{ page.title }}",
+    "title": "{{ page.title | replace: '"', "'" }}",
     "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
 }, {% endfor %}{% for page in site.meta %}{
     "id": {{ counter }},
     "url": "{{ site.url }}{{ page.url }}",
-    "title": "{{ page.title }}",
+    "title": "{{ page.title | replace: '"', "'" }}",
     "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
 }, {% endfor %}];
 
@@ -56,6 +56,7 @@ function lunr_search(term) {
     #lunrsearchresults {padding-top: 0.2rem;}
     .lunrsearchresult {padding-bottom: 1rem;}
     .lunrsearchresult .title {color: #0fbed9;}
+    .lunrsearchresult:hover .title {color: #24c4dd;}
     .lunrsearchresult .url {color: silver;}
     .lunrsearchresult a {display: block; color: #777;}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
@@ -64,8 +65,8 @@ function lunr_search(term) {
 
 
 <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search the Network" /></p>
+    <p><input autocomplete="off" type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search the Network" /></p>
 </form>
 <div id="lunrsearchresults">
-    <ul></ul>
+    <ul><li class='lunrsearchresult'>Try typing something in the search bar...</li></ul>
 </div>
