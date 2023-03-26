@@ -27,11 +27,9 @@ def main():
                 continue
                 
             categories = markdown.replace("\\", "/").replace("_","").split("/")
-            
+
             categories.pop(0)
             categories.pop()
-
-            print(categories)
 
             data = pl.Path(markdown[:len(markdown)]).read_text(encoding="utf-8")
             md = markd.Markdown(extensions=['meta'])
