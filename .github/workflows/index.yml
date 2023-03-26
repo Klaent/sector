@@ -20,7 +20,7 @@ jobs:
       
       - name: execute script
         run: |
-          python indexer.py
+          python file-index.py
       
       - name: deploy
         run: |
