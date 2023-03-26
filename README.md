@@ -24,4 +24,5 @@ This is a list of major inspirations for the sector universe.
 - [Star Trek: The Original Series](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series)
 - [Firefly](https://en.wikipedia.org/wiki/Firefly_(TV_series))
 - [Rimworld](https://store.steampowered.com/app/294100/RimWorld/)
+- [Hardspace: Shipbreaker](https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/)
 - Space Folk Songs (Leslie Fish, Julia Ecklar, Vic Tyler)
