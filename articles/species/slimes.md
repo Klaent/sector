@@ -7,9 +7,8 @@ Slimes are jello-like creatures with a 'rigid' outer shell, keeping them intact.
 
 |Pros|Cons|
 |---|---|
-|No bones||
-|Really agile/flexible||
-|Really social||
+|No bones|Vulnerable to cuts and holes|
+|Flexible|Susceptible to slimeloss|
 |Tolerance to punches|Weak punches|
 |Speak Bubblish|Squishy|
 
