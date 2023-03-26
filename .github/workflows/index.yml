@@ -1,15 +1,7 @@
 name: Index markdown files
-# on:
-#   push:
-#     branches:
-#       - master
-#     paths:
-#       - "culture/**"
-#       - "events/**"
-#       - "factions/**"
-#       - "sectors/**"
-#       - "species/**"
-#       - "technology/**"
+
+on:
+  workflow_dispatch:
 
 jobs:
   build:
