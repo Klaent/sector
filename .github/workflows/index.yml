@@ -1,5 +1,7 @@
 name: Index markdown files
-on: push
+
+on:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -18,7 +20,7 @@ jobs:
       
       - name: execute script
         run: |
-          python index.py
+          python file-index.py
       
       - name: deploy
         run: |
@@ -26,6 +28,6 @@ jobs:
           git config user.email github-actions@github.com
 
           git pull origin master
-          git add -f page_index.md
+          git add -f meta/page_index.md
           git commit -m "index all files"
           git push origin master
